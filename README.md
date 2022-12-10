@@ -2,7 +2,7 @@
 > <a target="_blank" href="https://petstore.swagger.io/">Link to the site</a>
 
 ## The project is implemented with the use of the following technologies:
-Python Pytest Requests PyCharm Poetry Jenkins GitHub Allure Report Allure TestOps Jira
+Python, Pytest, Requests, PyCharm, Poetry, Jenkins, GitHub, Allure Report, Allure TestOps, Jira
 
 ![This is an image](media/python.png)![This is an image](media/pytest.png) ![This is an image](media/requests.png)![This is an image](media/pycharm.jpeg) ![This is an image](media/Poetry.jpeg)![This is an image](media/jenkins_logo.jpeg) ![This is an image](media/github.png)![This is an image](media/allure_report.png) ![This is an image](media/allure_testops.jpeg)![This is an image](media/jira_logo.jpeg)
 
