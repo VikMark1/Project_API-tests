@@ -2,18 +2,17 @@
 > <a target="_blank" href="https://petstore.swagger.io/">Link to the site</a>
 
 ## The project is implemented with the use of the following technologies:
-<p align="center">
-<img width="16%" title="Pytest" src="media/pytest.png">
-<img width="16%" title="Python" src="media/python.png">
-<img width="16%" title="Pycharm" src="media/pycharm.jpeg">
-<img width="16%" title="Requests" src="media/requests.png">
-<img width="14%" title="Poetry" src="media/Poetry.jpeg">
-<img width="16%" title="Allure Report" src="media/allure_report.png">
-<img width="16%" title="GitHub" src="media/github.png">
-<img width="16%" title="Jenkins" src="media/jenkins_logo.jpeg">
-<img width="15%" title="Allure TestOps" src="media/allure_testops.jpeg">
-<img width="15%" title="Jira" src="media/jira_logo.jpeg">
-</p>
+<code><img title="Python" src="media/python.png" width="35"/></code>
+<code><img title="Pycharm" src="media/pycharm.jpeg" width="40"/></code>
+<code><img title="Pytest" src="media/pytest.png" width="35"/></code>
+<code><img title="Poetry" src="media/Poetry.jpeg" width="40"/></code>
+<code><img title="Selene" src="media/selene.png" width="40"/></code>
+<code><img title="Requests" src="media/requests.png" width="35"/></code>
+<code><img title="Github" src="media/github.png" width="40"/></code>
+<code><img title="Allure Report" src="media/allure_report.png" width="40"/></code>
+<code><img title="Allure TestOps" src="media/allure_testops.jpeg" width="40"/></code>
+<code><img title="Jenkins" src="media/jenkins_logo.jpeg" width="40"/></code>
+<code><img title="Jira" src="media/jira_logo.jpeg" width="40"/></code>
 
 #### List of verifications executed in autotests:
 - [x] User logging into the system
