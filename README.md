@@ -6,7 +6,6 @@
 <code><img title="Pycharm" src="media/pycharm.jpeg" width="40"/></code>
 <code><img title="Pytest" src="media/pytest.png" width="35"/></code>
 <code><img title="Poetry" src="media/Poetry.jpeg" width="40"/></code>
-<code><img title="Selene" src="media/selene.png" width="40"/></code>
 <code><img title="Requests" src="media/requests.png" width="35"/></code>
 <code><img title="Github" src="media/github.png" width="40"/></code>
 <code><img title="Allure Report" src="media/allure_report.png" width="40"/></code>
