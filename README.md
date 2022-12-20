@@ -39,6 +39,9 @@
 #### Graphs report tab
 ![This is an image](media/graphs.png)
 
+#### Behaviors report tab
+![This is an image](media/Behaviors.png)
+
 # Notification with Jenkins build results report is sent automatically to Telegram-bot
 ![This is an image](media/telegram-bot.jpg)
 
